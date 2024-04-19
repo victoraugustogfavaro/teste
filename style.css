@@ -4,3 +4,11 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+button{
+    background-color: black;
+    color: white;
+}
+button:hover{
+    transition: 0.5s;
+    cursor: pointer;
+}
